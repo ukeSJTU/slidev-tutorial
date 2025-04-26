@@ -1,0 +1,5 @@
+{
+    "slidev.preview-sync": true,
+    "editor.defaultFormatter": "antfu.slidev",
+    "editor.formatOnSave": false
+}
